@@ -1,4 +1,4 @@
-#profile-title: AiSklad
+#profile-title: AiSklad VPN <- обход глушилок
 vless://ddc2716c-8b78-49dc-baa6-495f98f20ba6@95.163.210.176:443?encryption=none&fp=chrome&pbk=iMR5eGZwmy4V0DseMJxZGc-llTJ1nUYpLJYN52HMmyc&security=reality&sid=8a26b74e56ecbd45&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://148fcfad-46d5-40c1-8045-52c4f626fc8a@89.208.87.253:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=sun6-21.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://40ecece1-edd9-4543-99c7-529ee594135d@217.16.19.114:443?encryption=none&fp=chrome&pbk=s0qb5ggFZN3X7QXWtgK4o7UgfS9DlpFC6JT6OWVs6X4&security=reality&sid=651cf5b3&sni=www.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233
