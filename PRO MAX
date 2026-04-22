@@ -1,3 +1,9 @@
+# profile-title: Buba vpn
+# profile-update-interval: 5
+# Date/Time: 2026-03-25 / 22:14 (Moscow)
+# Количество: 387
+
+
 vless://c30466a2-0bd3-4fd0-8f34-e9919159c1d9@84.32.50.19:443?type=tcp&security=reality&sni=sweden.superbuba.top&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3&fp=random#🇸🇪 Швеция
 vless://c30466a2-0bd3-4fd0-8f34-e9919159c1d9@5.199.171.51:443?type=tcp&security=reality&sni=lt.superbuba.top&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&sid=4fa44664f6a566d3&fp=random#🇱🇹 Литва
 vless://c30466a2-0bd3-4fd0-8f34-e9919159c1d9@ru.superbuba.top:443?type=tcp&security=reality&sni=ru.superbuba.top&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb&fp=chrome#🇷🇺 Россия | YouTube без рекламы
